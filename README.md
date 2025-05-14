@@ -1,10 +1,10 @@
-# ChatGPT 中文版：免费直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025/05/14 更新】                            
+# ChatGPT 中文版：免费直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【2025/05/15 更新】                            
 
 **全面体验 ChatGPT 中文版，免费直连，无需翻墙，支持 GPT-4、4o、o1、o3 和 DeepSeek R1 及中文多功能应用！**   
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站**和**官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求~
 
 **ChatGPT 中文版**入口：**[chat.lanjing.pro](https://chat.lanjing.pro)**   
-**ChatGPT 镜像网站**入口：**[chat.yixiaai.com](https://chat.xsimple.top)**
+**ChatGPT 镜像网站**入口：**[chat.yixiaai.com](https://xsimplechat.com)**
 
 ---
 
@@ -23,7 +23,7 @@
 
 | 镜像站地址                            | 支持版本              | 免费额度 | 注册方式 | 稳定性 | 功能亮点                                         |
 |---------------------------------------|-----------------------|----------|----------|--------|--------------------------------------------------|
-| **[chat.yixiaai.com](https://chat.xsimple.top)** | GPT-4, GPT-4o, GPT-o1 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| **[chat.yixiaai.com](https://xsimplechat.com)** | GPT-4, GPT-4o, GPT-o1 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | **[chat.lanjing.pro](https://chat.lanjing.pro)**   | GPT-4, GPT-4o, GPT-o1 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-o1 模型，一比一还原官网，可以使用 AI助手、AI插件 |
 | **[chat.chatgpt-chinese.com](https://chat.chatgpt-chinese.com)** | GPT-4, GPT-4o    | 有       | 扫码使用 | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南        |
 | **[yixiaai.cn](https://yixiaai.cn)**          | GPT-4, GPT-3.5        | 有       | 扫码使用 | ⭐⭐⭐⭐   | 各种 AI 工具，你想要的，这儿全都有             |
